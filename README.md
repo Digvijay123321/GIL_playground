@@ -7,9 +7,9 @@ Run small, focused scripts to see when the GIL matters, when it doesn’t, and h
 
 ## 📌 Planning on adding
 
-- **Basics** – Simple examples to show GIL behavior.
-- **Benchmarks** – CPU-bound vs I/O-bound performance.
-- **Advanced** – NumPy, multiprocessing, and GIL internals.
-- **Notes** – Links and explanations for deeper learning.
+- **Basics** – Simple examples to show GIL behavior.         (✅ completed)
+- **Benchmarks** – CPU-bound vs I/O-bound performance.       (📋 inprogress)
+- **Advanced** – NumPy, multiprocessing, and GIL internals.  (📋 inprogress)
+- **Notes** – Links and explanations for deeper learning.    (📋 inprogress)
 
 ---
